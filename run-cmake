@@ -1,0 +1,5 @@
+#/bin/bash
+
+cmake -B bin -S ./
+cd bin
+make install
